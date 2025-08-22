@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pac/RiderProjects/RevueCrafters/RevueCrafters.csproj": {}
+    "/home/pac/Backend-Retake/RevueCrafters/RevueCrafters.csproj": {}
   },
   "projects": {
-    "/home/pac/RiderProjects/RevueCrafters/RevueCrafters.csproj": {
+    "/home/pac/Backend-Retake/RevueCrafters/RevueCrafters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pac/RiderProjects/RevueCrafters/RevueCrafters.csproj",
+        "projectUniqueName": "/home/pac/Backend-Retake/RevueCrafters/RevueCrafters.csproj",
         "projectName": "RevueCrafters",
-        "projectPath": "/home/pac/RiderProjects/RevueCrafters/RevueCrafters.csproj",
+        "projectPath": "/home/pac/Backend-Retake/RevueCrafters/RevueCrafters.csproj",
         "packagesPath": "/home/pac/.nuget/packages/",
-        "outputPath": "/home/pac/RiderProjects/RevueCrafters/obj/",
+        "outputPath": "/home/pac/Backend-Retake/RevueCrafters/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pac/.nuget/NuGet/NuGet.Config"

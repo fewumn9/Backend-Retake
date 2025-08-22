@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nnRWXDodzp4=",
+  "dgSpecHash": "wjA6JaZvVNWNtyUY2Ci+lkQGABFTKI9SlHr4jW1KmiQUa0vwI8f4zLP4i+Y7YAxcji8NPjKzqM45QI3x5ZKmow==",
   "success": true,
-  "projectFilePath": "/home/pac/RiderProjects/RevueCrafters/RevueCrafters.csproj",
+  "projectFilePath": "/home/pac/Backend-Retake/RevueCrafters/RevueCrafters.csproj",
   "expectedPackageFiles": [
     "/home/pac/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
     "/home/pac/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
